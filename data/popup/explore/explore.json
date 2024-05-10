@@ -1,0 +1,18 @@
+[
+  {"id": "speed-dial", "title": "Speed Dial"},
+  {"id": "theater-mode", "title": "Theater Mode"},
+  {"id": "video-popout", "title": "Video Popout"},
+  {"id": "video-recorder", "title": "Video Recorder"},
+  {"id": "audio-converter", "title": "Audio Converter"},
+  {"id": "text-to-speech", "title": "Text to Speech (TTS)"},
+  {"id": "remote-vlc-player", "title": "Remote VLC™ Player"},
+  {"id": "video-audio-muxer", "title": "Video & Audio Muxer"},
+  {"id": "font-defender", "title": "Font Fingerprint Defender"},
+  {"id": "webgl-defender", "title": "WebGL Fingerprint Defender"},
+  {"id": "canvas-defender", "title": "Canvas Fingerprint Defender"},
+  {"id": "video-audio-downloader", "title": "Video & Audio Downloader"},
+  {"id": "speech-to-text", "title": "Speech to Text (Voice Recognition)"},
+  {"id": "color-changer-facebook", "title": "Color Changer for Facebook™"},
+  {"id": "audiocontext-defender", "title": "AudioContext Fingerprint Defender"},
+  {"id": "download-accelerator-manager", "title": "Download Accelerator and Manager"}
+]
